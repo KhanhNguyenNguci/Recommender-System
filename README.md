@@ -4,7 +4,7 @@
 ```bash
 python -m venv venv
 # Windows
-venv\Scripts\activate
+venv\Scripts\activate (venv\Scripts\deactivate: turn off VM)
 # macOS/Linux
 source venv/bin/activate
 ```
